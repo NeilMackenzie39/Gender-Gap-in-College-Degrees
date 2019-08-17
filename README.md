@@ -1,5 +1,5 @@
 # Gender-Gap-in-College-Degrees
-As an extension of the [Visualization of earnings based on college degrees](https://github.com/NeilMackenzie39/Visualization-of-Earnings-Earnings-Based-on-College-Majors) project, this project uses pandas and matplotlub to vizualize the gender pay gap for various college degrees
+In this project, pandas and matplotlib are used to vizualize the gender pay gap for various college degrees. This project is an extension of the [Visualization of earnings based on college degrees](https://github.com/NeilMackenzie39/Visualization-of-Earnings-Earnings-Based-on-College-Majors) project.
 
 ## Getting Started
 This repository contains the jupyter notebook and 'percent-bachelors-degrees-women-usa.csv' file required to run the notebook. A .png file named 'gender_degrees' which is generated and saved from code in the jupyer notebook is also included in the repository.
